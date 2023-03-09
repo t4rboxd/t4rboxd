@@ -12,4 +12,4 @@ I'm **Turbo**, a full-stack developer with experience in lots of coding language
 - If you'd like to get in touch, feel free to send me a message here on GitHub or connect with me on Telegram(https://t.me/turbo_1337).
 
 👀 Fun Fact(s)
-- This was written by ai.
+- This README was written by ai.
